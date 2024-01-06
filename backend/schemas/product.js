@@ -31,7 +31,7 @@ export default {
         {
             title: "Blurb",
             name: "blurb",
-            type: "",
+            type: "string",
         },
         {
             title: "Categories",
